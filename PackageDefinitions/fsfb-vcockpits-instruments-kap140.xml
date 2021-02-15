@@ -1,0 +1,22 @@
+<AssetPackage Name="fsfb-vcockpits-instruments-kap140" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>CUSTOM</ContentType>
+		<Title>KAP140 Autopilot</Title>
+		<Manufacturer/>
+		<Creator>FSFB</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="fsfb-vcockpits-instruments-kap140">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>src\fsfb-vcockpits-instruments-kap140</AssetDir>
+			<OutputDir>.\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

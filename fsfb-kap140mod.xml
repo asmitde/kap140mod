@@ -1,0 +1,7 @@
+<Project Version="2" Name="fsfb" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\fsfb-vcockpits-instruments-kap140.xml</Package>
+	</Packages>
+</Project>
